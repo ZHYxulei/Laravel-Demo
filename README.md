@@ -19,7 +19,7 @@
 快速开始
 1. 克隆仓库
     ```
-    git clone <repo-url> .
+    git clone https://github.com/ZHYxulei/Laravel-Demo.git
     ```
 2. 安装依赖
     ```
