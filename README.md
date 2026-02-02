@@ -20,6 +20,7 @@
 1. 克隆仓库
     ```
     git clone https://github.com/ZHYxulei/Laravel-Demo.git
+    cd Laravel-Demo
     ```
 2. 安装依赖
     ```
@@ -40,7 +41,7 @@
     ```
 5. 启动应用
     ```
-    php artisan serve --host=0.0.0.0 --port=8000
+    composer run dev
     ```
 
 测试与质量
